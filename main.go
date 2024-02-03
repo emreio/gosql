@@ -45,5 +45,5 @@ func main() {
 }
 
 func CallSql(repo types.Repository) {
-	repo.Select("SELECT * FROM dbo.***")
+	repo.Select("SELECT * FROM dbo.* **")
 }
