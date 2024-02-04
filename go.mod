@@ -1,4 +1,4 @@
-module github.com/emreio/sqlgo
+module github.com/emreio/gosql
 
 require github.com/emreio/golib v0.1.4-beta
 
